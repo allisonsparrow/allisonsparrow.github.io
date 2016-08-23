@@ -10,6 +10,7 @@ h1 {
 	font-size: 56px;
 	line-height: 64px;
 	color: #962D3E;
+	text-align: center;
 }
 
 p {
@@ -48,6 +49,7 @@ a {
 img {
 	max-width: 1920px;
 	width: 100%
+	text-align:center;
 }
 #slogan {
 	font-style:italic;
