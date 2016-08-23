@@ -2,21 +2,21 @@ body {
 	font-family: "Merriweather Sans light"; sans-serif; 
 	font-size: 18px;
 	line-height: 28px;
-	font-color:#979C9C;
+	color: #979C9C;
 	}
 
 h1 {
 	font-family: "Merriweather Sans light"; sans-serif;
 	font-size: 56px;
 	line-height: 64px;
-	font-color: #962D3E;
+	color: #962D3E;
 }
 
 p {
 	font-family: "Merriweather Sans light"; sans-serif; 
 	font-size: 18px;
 	line-height: 28px;
-	font-color:#979C9C;
+	color: #979C9C;
 
 }
 
@@ -24,7 +24,7 @@ ul {
 	font-family: "Merriweather Sans light"; sans-serif; 
 	font-size: 18px;
 	line-height: 28px;
-	font-color:#979C9C;
+	color: #979C9C;
 
 }
 
@@ -32,7 +32,7 @@ li {
 	font-family: "Merriweather Sans light"; sans-serif; 
 	font-size: 18px;
 	line-height: 28px;
-	font-color:#979C9C;
+	color: #979C9C;
 
 }
 
@@ -41,7 +41,7 @@ a {
 	font-size: 18px;
 	line-height: 28px;
 	text-decoration: none;
-	font-color:#979C9C; 
+	color: #979C9C; 
 
 }
 
